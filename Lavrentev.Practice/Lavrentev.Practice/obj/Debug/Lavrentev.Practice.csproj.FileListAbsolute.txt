@@ -1,0 +1,6 @@
+C:\Users\bigsmoke\source\repos\Lavrentev.Practice\Lavrentev.Practice\bin\Debug\Lavrentev.Practice.exe.config
+C:\Users\bigsmoke\source\repos\Lavrentev.Practice\Lavrentev.Practice\bin\Debug\Lavrentev.Practice.exe
+C:\Users\bigsmoke\source\repos\Lavrentev.Practice\Lavrentev.Practice\bin\Debug\Lavrentev.Practice.pdb
+C:\Users\bigsmoke\source\repos\Lavrentev.Practice\Lavrentev.Practice\obj\Debug\Lavrentev.Practice.csprojAssemblyReference.cache
+C:\Users\bigsmoke\source\repos\Lavrentev.Practice\Lavrentev.Practice\obj\Debug\Lavrentev.Practice.exe
+C:\Users\bigsmoke\source\repos\Lavrentev.Practice\Lavrentev.Practice\obj\Debug\Lavrentev.Practice.pdb
